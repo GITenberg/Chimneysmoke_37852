@@ -1,0 +1,36 @@
+_repo: Chimneysmoke_37852
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Fogarty, Thomas
+    alias: Fogarty, Thomas J.
+    birthdate: 1873
+    deathdate: 1938
+    gutenberg_agent_id: '33090'
+    url: http://www.gutenberg.org/2009/agents/33090
+covers:
+- cover_type: archival
+  image_path: 37852-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_issued: '2011-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37852'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 20th century'
+title: Chimneysmoke
+url: http://www.gutenberg.org/ebooks/37852
